@@ -24,4 +24,4 @@ Parameter files to activate a camera processing.
 | ------------------ | -------------------------------------------- |
 |camera_info.yaml | Intrinsic camera parameters (ref: [image_pipeline/CameraInfo](http://www.ros.org/wiki/image_pipeline/CameraInfo))
 |trigger.param.yaml | Camera shutter trigger settings (ref: [tier4/sensor_trigger](https://github.com/tier4/sensor_trigger))
-|v4l2_camera.param.yaml | Camera driver settings (Reference: [tier4/ros2_v4l2_camera](https://github.com/tier4/ros2_v4l2_camera))|
+|v4l2_camera.param.yaml | Camera driver settings (ref: [tier4/ros2_v4l2_camera](https://github.com/tier4/ros2_v4l2_camera))|
